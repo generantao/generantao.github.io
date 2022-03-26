@@ -1,0 +1,32 @@
+body {
+background-color: whitesmoke;
+  margin-left: 200px;
+margin-right: 200px;
+margin-top: 100px;
+margin-bottom: 100px;
+
+font-family: 'ABeeZee';font-size: 22px;
+}
+h1 {
+  color: dimgrey;
+margin-bottom: 0;
+}
+h2 {
+  color: dimgrey;
+margin-bottom: 20px;
+}
+p {
+  color: dimgrey;
+  font-size: 19px;
+  align=right;
+}
+
+hr {
+border-width: 1px;
+margin-bottom: 25px;
+margin-top: 25px;
+}
+
+rid-column-end: 4;
+}
+
