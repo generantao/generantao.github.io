@@ -8,6 +8,12 @@ margin-bottom: 100px;
 font-family: 'ABeeZee';font-size: 22px;
   
 }
+a {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Optional: make the link color the same as surrounding text */
+}
+
+
 h1 {
   color: dimgrey;
 margin-bottom: 0;
