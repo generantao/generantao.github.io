@@ -6,6 +6,7 @@ margin-top: 100px;
 margin-bottom: 100px;
 
 font-family: 'ABeeZee';font-size: 22px;
+  a {text-decoration: none; }
 }
 h1 {
   color: dimgrey;
@@ -29,7 +30,6 @@ margin-top: 0px;
 
 rid-column-end: 4;
 
-a {text-decoration: none; }
+
 }
 
-a {text-decoration: none; }
